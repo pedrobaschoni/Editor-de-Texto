@@ -1,0 +1,17 @@
+===== Central de Ajuda =====
+
+  F1         -> Ajuda
+  F2         -> Salvar em um .txt
+  F10        -> Ler as informacoes do .txt
+  F12        -> Exibir informacoes do aluno
+  SETAS      -> Navegar pelo texto
+  INSERT     -> Sobreescrever texto digitado
+  PAGE UP    -> Pagina acima
+  PAGE DOWN  -> Pagina abaixo
+  HOME       -> Posiciona a tecla no inicio da linha
+  END        -> Posiciona a tecla no fim da linha
+  BACKSPACE  -> Remove o elemento anterior ao cursor
+  ENTER      -> Retorna o cursor ao inicio da proxima linha
+  ESC        -> Sair
+
+============================  
